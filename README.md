@@ -1,4 +1,3 @@
-# hello-world
-Just another repository
-my first edit file
-gogoing
+# hello-JAVA
+
+Study JAVA With Me ~
